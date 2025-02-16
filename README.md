@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Computer Science Engineer** with a strong passion 
 - 🤖 **Machine Learning & NLP Enthusiast** with expertise in AI and MLOps
 - 📊 Strong foundation in **Mathematics & Statistics** for data-driven decision making
 - 🔍 Passionate about solving complex problems and optimizing solutions
-- 🌍 Open-source contributor & team-oriented professional
+- 🌍 Team-oriented professional
 - 💡 Experienced in **Recommendation Systems, LLMs, and ETL Pipelines**
 
 ## 🔧 Tech Stack
