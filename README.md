@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm a **Computer Science Engineer** with a strong passion 
 - 🌦 **Weather ETL Pipeline** - Built an automated **data pipeline using Apache Airflow**.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-cherif/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-cherif-462748216/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cherifmeriam09@gmail.com)
 
 💡 *Let's innovate together!* 🚀
