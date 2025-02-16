@@ -27,17 +27,29 @@ Welcome to my GitHub! I'm a **Computer Science Engineer** with a strong passion 
 
 ## 📊 GitHub Stats
 
-![Meriam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriamcherif&show_icons=true&theme=modern&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriamcherif&layout=compact&theme=modern)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📂 Featured Projects
-- 🔥 **Activity & Content Recommendation System** - Implemented using **GPT, Mistral, Llama, SBERT & RAG** for personalized education recommendations.
-- 🤖 **Log Summarization using LLMs**  - Leveraged **Palo Alto firewall logs** to create human-readable summaries.
-- 🚀 **Chatbot for Asana**- Built using **Langchain and Hugging Face models**.
-- 🏫 **Student Performance Prediction** - Developed ML models and deployed a **Flask API on AWS**.
-- 🔍 **Aspect-Based Sentiment Analysis** - Multi-task learning model for **fine-grained sentiment detection**.
-- 🌦 **Weather ETL Pipeline** - Built an automated **data pipeline using Apache Airflow**.
+
+### 🔥 **Activity & Content Recommendation System**
+- **Description**: Developed and optimized a personalized recommendation system for educational activities and content. The activity recommendation system utilized **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** for personalized suggestions. The content recommendation system was optimized by refining **PostgreSQL queries** and implementing **unsupervised learning techniques** for more accurate content clustering.
+
+### 🤖 **Log Summarization using LLMs**
+- **Description**: Leveraged **Large Language Models (LLMs)** to convert raw **Palo Alto firewall logs** into human-readable summaries. This project aimed to enhance the interpretability of complex logs, providing useful insights for network security professionals.
+
+### 🚀 **Chatbot for Asana**
+- **Description**: Contributed to the development of a chatbot for **Asana** using **Langchain** and **Hugging Face models**. The chatbot was designed to interact with users, answer questions, and streamline project management tasks.
+
+### 🏫 **Student Performance Prediction**
+- **Description**: Built a machine learning model to predict student performance based on academic and demographic data. I created a **Flask API** for real-time predictions and deployed it on **AWS Elastic Beanstalk**. The model was optimized with **hyperparameter tuning**, and various regressors such as **Random Forest** and **XGBoost** were tested to achieve the best results.
+
+### 🔍 **Aspect-Based Sentiment Analysis**
+- **Description**: Developed a **multi-task learning model** for aspect-based sentiment analysis, which identifies opinions expressed about specific aspects of a product or service. This project involved analyzing reviews and feedback to extract fine-grained sentiment for individual product features.
+
+### 🌦 **Weather ETL Pipeline**
+- **Description**: Created an automated **ETL pipeline** using **Apache Airflow** to collect, process, and store weather data from an API. The pipeline runs daily to transform raw weather data into structured formats and loads it into a **PostgreSQL database** for future analysis.
+
+---
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-cherif-462748216/)  
