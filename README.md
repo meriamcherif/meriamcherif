@@ -2,13 +2,6 @@
 
 Welcome to my GitHub! I'm a **Computer Science Engineer** with a strong passion for **Data Science, Machine Learning, NLP, and MLOps**. With a solid academic background and hands-on experience, I specialize in designing and implementing data-driven solutions.
 
-## 🚀 About Me
-- 🤖 **Machine Learning & NLP Enthusiast** with expertise in AI and MLOps
-- 📊 Strong foundation in **Mathematics & Statistics** for data-driven decision making
-- 🔍 Passionate about solving complex problems and optimizing solutions
-- 🌍 Team-oriented professional
-- 💡 Experienced in **Recommendation Systems, LLMs, and ETL Pipelines**
-
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriamcherif&layout=compact&theme=modern)](https://github.com/anuraghazra/github-readme-stats)
