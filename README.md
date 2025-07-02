@@ -9,23 +9,6 @@ Welcome to my GitHub! I'm a **Computer Science Engineer** with a strong passion 
 - 🌍 Team-oriented professional
 - 💡 Experienced in **Recommendation Systems, LLMs, and ETL Pipelines**
 
-## 🔧 Tech Stack
-
-### 🧠 Data Science & AI
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCC00?style=flat&logo=huggingface&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### 🧑‍💻 MLOps & Deployment
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriamcherif&layout=compact&theme=modern)](https://github.com/anuraghazra/github-readme-stats)
